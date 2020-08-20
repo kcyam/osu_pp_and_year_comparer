@@ -6,3 +6,9 @@ To use, add your osu! API key to the API_KEY global variable.
 Add up to 7 player IDs into the user_id list
 
 Run every block
+
+TODO:
+
+Set it for different game modes
+
+Optimize code
